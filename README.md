@@ -1,5 +1,5 @@
 
-## Allure TestNG Example
+## Allure TestNG Examples
 
 ### Atenção
 :stop_sign: Para fins didático e de exploração do Allure, um teste está falhando :trollface: para que sai com erro no relatório.
